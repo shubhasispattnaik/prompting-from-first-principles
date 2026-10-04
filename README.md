@@ -1,0 +1,1 @@
+Most people write AI prompts by analogy: they copy a template from a reel and hope. This course takes prompts apart down to how language models actually work, then builds them back up, so you can write your own for any assignment, application or everyday task, and fix them when they fail.
